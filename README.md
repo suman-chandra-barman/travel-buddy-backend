@@ -1,18 +1,21 @@
-# Travel Buddy Matching
-
+# Trip Link
 ## Overview
 
-Travel Buddy Matching is a web application designed to help travelers find compatible travel buddies for their adventures. Whether you're planning a solo trip and want to meet fellow travelers along the way or seeking companions for a specific trip, this application provides a platform to connect with like-minded individuals.
+TripLink is a web application designed to help travelers find compatible travel buddies for their adventures. Whether you're planning a solo trip and want to meet fellow travelers along the way or seeking companions for a specific trip, this application provides a platform to connect with like-minded individuals.
 
 ## Live URL
+[Live Website URL](//trip-link.vercel.app/)
 
-The application is currently deployed at: [Live URL](https://travel-buddy-matching-ten.vercel.app/)
+## Backend Live URL
+[Backend_Live URL](https://trip-link-backend.vercel.app/)
 
 ## Project Functionality Video
-
 Watch this video to understand the functionality of the Travel Buddy Matching application:
+[Project Functionality Video](https://drive.google.com/file/d/1Nk9B3v4ZlC6P9W8Hd5vUMm4Gc8LdxuW5/view?usp=sharing)
 
-[Project Functionality Video](https://drive.google.com/file/d/1S9K8Epoah1TwTbUnOP4DtZQJzvmAfxIY/view)
+## Login Credentials
+- ADMIN: username : sam_barman, email: sam@gmail.com,  password: 123456
+- USER:  max, email: max@gmail.com, password:123456
 
 ## Features
 
